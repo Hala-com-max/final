@@ -41,9 +41,9 @@ AG_NEWS_LABELS = {
 class StrongDeepWordBugConfig:
     text_column: str = "question"
     label_column: str = "label"
-    sample_size: int = 100
+    sample_size: int = 200
     query_budget: int = 50_000
-    max_edit_distance: int = 1
+    max_edit_distance: int = 100
     attack_examples_path: str = "./tests/data/measures/attack_examples.csv"
 
 

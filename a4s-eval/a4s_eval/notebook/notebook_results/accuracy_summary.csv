@@ -1,0 +1,2 @@
+accuracy,per_class_accuracy,cv_mean_accuracy,cv_std,cv_95ci
+0.9,"{""class_0"": 1.0, ""class_1"": 0.9, ""class_2"": 0.8}",0.9466666666666667,0.029814239699997188,0.026133333333333324
