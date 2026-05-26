@@ -56,10 +56,6 @@ These perturbations remain understandable to humans while successfully misleadin
 
 The implementation uses Levenshtein distance to constrain perturbation realism.
 
-Definition:
-
-> Minimum number of character edits required to transform one string into another.
-
 Allowed operations:
 
 * insertion
