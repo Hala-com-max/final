@@ -61,6 +61,7 @@ Allowed operations:
 * insertion
 * deletion
 * substitution
+* character swap
 ---
 
 # Experimental Setup
