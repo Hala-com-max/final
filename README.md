@@ -37,7 +37,7 @@ Supported perturbations:
 * character insertion
 * character deletion
 * character substitution
-* character swap / transposition
+* character swap
 
 Examples:
 
